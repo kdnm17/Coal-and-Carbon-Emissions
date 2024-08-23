@@ -1,8 +1,8 @@
 # Coal-and-Carbon-Emissions
 Team Project in Smart India Hackathon
-
+<br>
 Team Members :
-* Neharika
+* Vasa Neharika
 * Satwika
 * Sri Latha
 * Harshini
