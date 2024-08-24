@@ -3,7 +3,7 @@ Team Project in Smart India Hackathon
 <br>
 Team Members :
 * Vasa Neharika
-* Doondy Satwika
+* Gunuputi Doondy Satwika
 * Muddappu Sri Latha
 * Harshini
 * Charanjeeth
